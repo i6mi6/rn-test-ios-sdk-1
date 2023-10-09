@@ -2,7 +2,7 @@
 //  RNSDK.h
 //  RNSDK
 //
-//  Created by Alexander Vitanov on 10/6/23.
+//  Created by Alexander Vitanov on 10/9/23.
 //
 
 #import <Foundation/Foundation.h>
@@ -14,6 +14,3 @@ FOUNDATION_EXPORT double RNSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char RNSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <RNSDK/PublicHeader.h>
-
-#import <RNSDK/RNSDKViewController.h>
-
