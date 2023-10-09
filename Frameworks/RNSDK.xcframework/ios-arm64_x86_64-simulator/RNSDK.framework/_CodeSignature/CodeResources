@@ -19,7 +19,11 @@
 		</dict>
 		<key>Headers/RNSDK.h</key>
 		<data>
-		OKMFxkawKWr9CAdUiVapLI+vWwA=
+		jUZhkKQZruu86PKSvy6xz7XGsHo=
+		</data>
+		<key>Headers/RNSDKViewController.h</key>
+		<data>
+		JaltK+RBbvv7X+iVuKXaWI44bMU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -52,7 +56,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WUOEcgTJIK4UgB4PLpGHN6P088o5pfM/cKTMXmTCS9w=
+			Kf0AVrJkM5URPAWwQJ78u6DWoDH4cGwYuwrxw/kWojA=
+			</data>
+		</dict>
+		<key>Headers/RNSDKViewController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hxALXpQiPTgeNmfFXrSWMjH0I2fzEBCZM3zmF6SHCoo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
