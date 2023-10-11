@@ -9,6 +9,27 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "RNSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "RNSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "RNSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "RNSDK",
         "declAttributes": [
           "RawDocComment"
@@ -222,6 +243,20 @@
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/alexandervitanov\/Projects\/General\/RNSDKExample2\/ios\/StoreConnectionModule.swift",
+      "kind": "StringLiteral",
+      "offset": 221,
+      "length": 37,
+      "value": "\"Log from Swift: \""
+    },
+    {
+      "filePath": "\/Users\/alexandervitanov\/Projects\/General\/RNSDKExample2\/ios\/StoreConnectionModule.swift",
+      "kind": "StringLiteral",
+      "offset": 257,
+      "length": 2,
+      "value": "\"\""
+    },
     {
       "filePath": "\/Users\/alexandervitanov\/Projects\/General\/RNSDKExample2\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
